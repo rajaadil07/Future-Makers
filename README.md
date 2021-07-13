@@ -9,6 +9,14 @@ Hello! Today, I learned the power of storytelling! Though I didn't hear the full
 
 Day 3 Reflection
 
+What is the difference between supervised and unsupervised learning?
+
+Today, I learned about supervised and unsupervised learning. In supervised learning, our input data is labeled. So, for example if we want to predict if a picture is of a dog or cat, then we will give our model data that labels or shows a picture of an actual dog/cat so the model can learn from it. Unsupervised learning, is something that we don't prefer, but one which we may end up having. In unsupervised learning, our model learns from differnet patterns in our dataset. For example, from the sense of a dog and a cat, our model has to learn which unique characteristics both the dog and cat has to differentiate the two. 
+
+Describe why the following statement is FALSE: Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries.
+
+The following statement is false because Scikit-learn is used to process and manipulate our data/statistics. Scikit-learn does not necessarilly visualize data, rather we depend on libraries such as Matplotlib and Graphviz to plot and visualize this data.
 
 Day 4 Reflection
 
+Today we learned about deep learning. This subsection of AI/ML can be implemented within several industries. Deep learning algorithms can be used for detecting and identifying objects within some sort of image or a scan. Deep learning is very powerful especially in fields such as healthcare where we use DL algorithms to scan brains.
